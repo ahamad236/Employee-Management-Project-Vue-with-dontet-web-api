@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ClientProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190785CA-2DB6-4145-9A37-545ECAE2C4A3}|..\\ServerProject\\ServerProject.csproj|c:\\users\\ahmad\\onedrive\\desktop\\06-03-2025 local-20250313t164617z-001\\06-03-2025 local\\employeemanagementproject\\serverproject\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190785CA-2DB6-4145-9A37-545ECAE2C4A3}|..\\ServerProject\\ServerProject.csproj|c:\\users\\ahmad\\onedrive\\desktop\\06-03-2025 local-20250313t164617z-001\\06-03-2025 local\\employeemanagementproject\\serverproject\\dal\\admindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D988F9-342D-425B-A6B9-C7B779AB6539}|clientproject.esproj|c:\\users\\ahmad\\onedrive\\desktop\\06-03-2025 local-20250313t164617z-001\\06-03-2025 local\\employeemanagementproject\\clientproject\\src\\services\\adminservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A6D988F9-342D-425B-A6B9-C7B779AB6539}|clientproject.esproj|solutionrelative:src\\services\\adminservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D988F9-342D-425B-A6B9-C7B779AB6539}|clientproject.esproj|c:\\users\\ahmad\\onedrive\\desktop\\06-03-2025 local-20250313t164617z-001\\06-03-2025 local\\employeemanagementproject\\clientproject\\src\\components\\logincomponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6D988F9-342D-425B-A6B9-C7B779AB6539}|clientproject.esproj|solutionrelative:src\\components\\logincomponent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ServerProject\\DAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "..\\ServerProject\\DAL\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ServerProject\\DAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "..\\ServerProject\\DAL\\EmployeeDAL.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:04:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ServerProject\\DAL\\AdminDAL.cs",
+              "RelativeDocumentMoniker": "..\\ServerProject\\DAL\\AdminDAL.cs",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ServerProject\\DAL\\AdminDAL.cs",
+              "RelativeToolTip": "..\\ServerProject\\DAL\\AdminDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:04:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminService.ts",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ClientProject\\src\\services\\AdminService.ts",
+              "RelativeDocumentMoniker": "src\\services\\AdminService.ts",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ClientProject\\src\\services\\AdminService.ts",
+              "RelativeToolTip": "src\\services\\AdminService.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-23T11:21:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginComponent.vue",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ClientProject\\src\\components\\LoginComponent.vue",
+              "RelativeDocumentMoniker": "src\\components\\LoginComponent.vue",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\06-03-2025 LOCAL-20250313T164617Z-001\\06-03-2025 LOCAL\\EmployeeManagementProject\\ClientProject\\src\\components\\LoginComponent.vue",
+              "RelativeToolTip": "src\\components\\LoginComponent.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-23T11:21:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
